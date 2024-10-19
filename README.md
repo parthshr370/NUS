@@ -1,17 +1,26 @@
-# NUS-Report---AI-Based-Differential-Diagnosis-of-Dementia
-Dementia Multimodal
----
+# AI-based Diagnostic Model for Dementia Classification
 
-# AI-Based Differential Diagnosis of Dementia Etiologies
+## Overview
 
-This repository contains all my learnings notes and code for the AI-based diagnostic model for dementia classification, which includes:
-- [Report](https://github.com/parthshr370/NUS/blob/main/NUS_Final.pdf) - Covers the summary , problems it solves, the proposed solutions and my inputs on future work of the paper
-- [My understanding of the Code and Data](https://github.com/parthshr370/NUS/blob/main/Understanding%20the%20Codebase%20and%20Data.pdf)
-- [Handwritten Notes](https://github.com/parthshr370/NUS/blob/main/Dimentia%20multimodal%20notes%20(1).pdf)/[Understanding of the Paper](https://github.com/parthshr370/NUS/blob/main/Notes-NUS.pdf)
-- [Code]
+This repository contains my understanding and code of the paper -  [AI-based diagnostic model for dementia classification](https://www.nature.com/articles/s41591-024-03118-z). The project focuses on leveraging deep learning techniques, particularly using MRI data, to classify different types of dementia and cognitive states.
 
-## Project Overview
+This is an assignment for [CogAI4Sci](https://www.cogai4sci.com/) AI lab internship at NUS 
+## Contents
 
-The project utilizes an AI model to classify cognitive states (Normal Cognition, Mild Cognitive Impairment, and Dementia) using multi-modal data, including MRI scans and clinical history, with a focus on improving early dementia diagnosis.
+1. [Report](https://github.com/parthshr370/NUS/blob/main/NUS_Final.pdf)
+   - Summary of the project
+   - Problems addressed
+   - Proposed solutions
+   - Future work suggestions
 
----
+2. [Code and Data Analysis](https://github.com/parthshr370/NUS/blob/main/Understanding%20the%20Codebase%20and%20Data.pdf)
+   - Detailed breakdown of the codebase
+   - Data preprocessing techniques
+   - Model architecture explanations
+   - Training and evaluation pipelines
+
+3. [My Notes and Thoughts](https://github.com/parthshr370/NUS/blob/main/Notes-NUS.pdf)
+   - My In-depth understanding of the underlying research paper
+   - Key concepts and methodologies explained
+
+4. [Code]
