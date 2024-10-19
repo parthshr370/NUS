@@ -21,6 +21,6 @@ This is an assignment for [CogAI4Sci](https://www.cogai4sci.com/) AI lab interns
 
 3. [My Notes and Thoughts](https://github.com/parthshr370/NUS/blob/main/Notes-NUS.pdf)
    - My In-depth understanding of the underlying research paper
-   - Key concepts and methodologies explained
+   - My thought process and some random notes and MRI scans
 
-4. [Code]
+4. [Code](https://github.com/parthshr370/NUS/blob/main/MRICode(1).ipynb)
